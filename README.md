@@ -34,7 +34,7 @@ Install the dependencies first:
 
 clone this repo into your local storage:
 
-    $ git clone https://github.com/yuune/clearine.git
+    $ git clone https://github.com/sofijacom/clearine.git
     $ cd clearine
 
 then install via pip:
