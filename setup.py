@@ -37,10 +37,10 @@ setup(
     package_data = {"Clearine": ["data/*"]},
     data_files=data_files,
     zip_safe=False,
-    url = "https://github.com/okitavera/clearine",
+    url = "https://github.com/sofijacom/clearine",
     project_urls = {
-        "Source": "https://github.com/okitavera/clearine",
-        "Tracker": "https://github.com/okitavera/clearine/issues",
+        "Source": "https://github.com/sofijacom/clearine",
+        "Tracker": "https://github.com/sofijacom/clearine/issues",
     },
     install_requires = [
         'pygobject',
