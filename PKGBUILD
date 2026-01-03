@@ -1,4 +1,4 @@
-# Maintainer: Mark Wagie <mark dot wagie at proton dot me>
+# Maintainer: Sofiya S.V <sofija.p2018@gmail.com>
 pkgname=clearine
 pkgver=0.7.9
 pkgrel=1
