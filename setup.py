@@ -29,7 +29,7 @@ setup(
     name = "Clearine",
     version = git_tag(),
     author = "Nanda Okitavera",
-    author_email = "codeharuka.yusa@gmail.com",
+    author_email = "sofija.p2018@gmail.com",
     description = ("Beautiful Logout UI for X11 window manager"),
     license = "MIT",
     packages = ["Clearine"],
