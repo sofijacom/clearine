@@ -17,5 +17,5 @@ provides=('clearine')
 
 package() {
   cd "${srcdir}"
-  bsdtar -xf clearine-0.7.9.tar.xz -C "$pkgdir"
+  bsdtar -xf clearine-0.7.10.tar.xz -C "$pkgdir"
 }
